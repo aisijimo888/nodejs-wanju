@@ -7,7 +7,7 @@
 
 #设置哪吒参数(NEZHA_TLS='1'开启tls,设置其他关闭tls)
 export NEZHA_SERVER='data.841013.xyz'
-export NEZHA_KEY='xxx'
+export NEZHA_KEY='KJzePxKKL2hyHUrGtc1'
 export NEZHA_PORT='443'
 export NEZHA_TLS='1'
 
